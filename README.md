@@ -66,6 +66,9 @@
 	- Perl
 	- Lua
 	- Bash
+11. Communication
+    - The ability to communicate with fellow teammates or coworkers
+    - Being able to work in a group setting
 
 ## License
 Licensed under the MIT license.
